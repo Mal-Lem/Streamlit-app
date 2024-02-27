@@ -1,1 +1,1 @@
-"# Streamlit-app Pour d�velopper mon application avec Streamlit,j'ai utiliser Atom.Une fois mon code r�dig�, j'ex�cute l'app avec streamlit run app.py .Cette approche m'a permis kde cr�er et tester rapidement mon app"
+"# Streamlit-app To develop my application with Streamlit, I used Atom. Once my code was written, I run the app with `streamlit run app.py`. This approach allowed me to quickly create and test my app"
