@@ -1,0 +1,1 @@
+"# Streamlit-app Pour d�velopper mon application avec Streamlit,j'ai utiliser Atom.Une fois mon code r�dig�, j'ex�cute l'app avec streamlit run app.py .Cette approche m'a permis kde cr�er et tester rapidement mon app"
